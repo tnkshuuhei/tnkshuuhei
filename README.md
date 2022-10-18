@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-My interests
-- Blockchain 
-- web3wallet
-- polkadot
-- DeFi
-etc...
+` let my_interests = { "Blockchain","web3wallet","Polkadot/Substrate","DAOs" };` 
 
-- 🌱I’m currently learning smartcontract/ink!/Rust/React...
+🌱I’m currently learning smartcontract/ink!/Rust/React...
+
+feel free to reach me twitter or TG:@shutanaka
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnkshuuhei&layout=compact&show_icons=true&theme=onedark" />
