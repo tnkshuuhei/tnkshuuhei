@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-` let my_interests = { "Blockchain","web3wallet","Polkadot/Substrate","DAOs" };` 
+` let my_interests = [ "Blockchain","web3wallet","Polkadot/Substrate","DAOs" ];` 
 
 🌱I’m currently learning smartcontract/ink!/Rust/React...
 
