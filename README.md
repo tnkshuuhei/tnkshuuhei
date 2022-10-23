@@ -2,7 +2,7 @@
 
 ` let my_interests = [ "Blockchain","web3wallet","Polkadot/Substrate","DAOs" ];` 
 
-🌱I’m currently learning smartcontract/ink!/Rust/React...
+🌱I’m currently learning smartcontract｜ink!/Substrate｜Rust｜React...
 
 feel free to reach me twitter or TG:@shutanaka
 
