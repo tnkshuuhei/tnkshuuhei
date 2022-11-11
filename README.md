@@ -4,7 +4,7 @@
 
 🌱I’m currently learning smartcontract｜ink!/Substrate｜Rust｜React...
 
-feel free to reach me twitter or TG:@shutanaka
+feel free to reach me twitter
 
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tnkshuuhei&theme=onedark&show_icons=ture" />
