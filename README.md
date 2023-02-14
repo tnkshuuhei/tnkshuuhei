@@ -1,10 +1,7 @@
-### Hi there 👋
+### Hi 👋
+🌱currently learning smartcontract and Blockchain
 
-` let my_interests = [ "Blockchain","web3wallet","Polkadot/Substrate","DAOs" ];` 
-
-🌱I’m currently learning smartcontract｜ink!/Substrate｜Rust｜React...
-
-feel free to reach me twitter
+feel free to connect 
 
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tnkshuuhei&theme=onedark&show_icons=ture" />
