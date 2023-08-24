@@ -1,13 +1,8 @@
-### Hi 👋
-🌱currently learning smartcontract and Blockchain
 
-feel free to connect 
+### Hi, it's [@shutanaka](https://twitter.com/shutanaka＿jp)
 
-<p align="left"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tnkshuuhei&theme=onedark&show_icons=ture" />
-</p>
-
-
+🌱 interested in public goods funding/ web3 onboarding <br />
+📫 Feel free to reach me @twitter/TG
 <!--
 **tnkshuuhei/tnkshuuhei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
