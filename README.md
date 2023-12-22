@@ -1,5 +1,7 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tnkshuuhei.tnkshuuhei" />
 
-### Hi, it's [@shutanaka](https://twitter.com/shutanaka_jp)
-
-🌱 interested in public goods funding/ web3 onboarding <br />
-📫 Feel free to reach me @twitter/TG or 0xstevetanaka@gmail.com
+<div align="center">
+  <h2>　Hi, it's <span ><a href="https://twitter.com/shutanaka_jp" target="_blank">shutanaka🙋‍♂️</a></span>　</h2> 
+  <p>jumping around public goods funding, Open source software, blockchain, web3 onboarding🌱</p>
+  <h3>Feel free to connect!</h3>
+</div>
