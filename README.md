@@ -16,7 +16,6 @@ After studying economics in university and gaining experience in sales and busin
 - 🎸 Playing bass
 - 🏍 Motorcycle touring
 - ☕️ Coffee
-- 🚬 Enjoying a smoke
 
 ### Get in Touch
 [X(prev Twitter)](https://x.com/shutanaka_jp)
