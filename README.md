@@ -8,7 +8,7 @@ After studying economics in university and gaining experience in sales and busin
 
 ### Interests
 
-- Mechanism design for public goods funding
+- Mechanism design for funding public goods
 - Technical approaches to solving coordination failures
 - Social implementation of Web3/blockchain technology
 
